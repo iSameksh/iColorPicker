@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "i-Color Picker",
+    "description": "just for you",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html"
+      
+    }
+  }
